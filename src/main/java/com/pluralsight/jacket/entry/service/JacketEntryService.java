@@ -5,7 +5,8 @@ import java.util.List;
 import com.pluralsight.jacket.entry.service.models.JacketEntry;
 
 /**
- * Created by kevin on 03/07/2015.
+ * Created by kevin on 03/07/2015
+ *added the test files
  */
 public interface JacketEntryService {
 
