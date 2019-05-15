@@ -7,7 +7,6 @@ import com.pluralsight.jacket.entry.service.models.JacketEntry;
 /**
  * Created by kevin on 03/07/2015
  *added the test files
- * added second line as well
  */
 public interface JacketEntryService {
 
